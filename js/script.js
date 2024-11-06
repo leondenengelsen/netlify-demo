@@ -1,2 +1,2 @@
 const h1 = document.querySelector('h1');
-h1.style.colors = 'hotpink;'
+h1.style.color = 'hotpink';
